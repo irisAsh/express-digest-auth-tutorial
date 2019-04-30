@@ -3,3 +3,9 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
+  ul
+    li
+      a(href='/tutorial') tutorial
+    li
+      a(href='/about') about
+  a(href='/logout') logout
