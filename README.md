@@ -1,6 +1,6 @@
 # express-digest-auth-tutorial
 
-[ExpressでBasic認証を実装する](https://irisash.com/express/digest_auth/)のサンプル。
+[ExpressでDigest認証を実装する](https://irisash.com/express/digest_auth/)のサンプル。
 Node.jsのWebアプリケーションフレームワークExpressでのDigest認証実装例です。  
 
 # 使用ツール
